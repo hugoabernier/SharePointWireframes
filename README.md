@@ -18,11 +18,11 @@ There is also a read-only version of the communication site if you want to show 
 
 If you choose a slide master, you can pick a layout to help you place your web parts on the page.
 
-%[1 column guide](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564789618044.png "1 column guide")
+![1 column guide](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564789618044.png )
 
-%[2 column guide](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564789676309.png "2 column guide")
+![2 column guide](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564789676309.png )
 
-%[3 column guide](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564789720813.png "3 column guide")
+![3 column guide](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564789720813.png )
 
 Simply place your web parts so that they fit within the gray area. Once you're done moving the web parts, select the **No guide** version, which hides all the guides.
 
@@ -52,41 +52,41 @@ Simply place your web parts so that they fit within the gray area. Once you're d
 
 If you want to write your web part with the [grid layout](https://tahoeninjas.blog/2019/07/28/sharepoint-framework-design-series-layout-patterns-i/) and would like to mock them up in your wireframes, you can use the **Generic Grid Layout Web Part**. It comes in **1/3 column**, **2/3 columns**, and **full-width** variations.
 
-%[Generic Grid Layout Web Part -- Full width](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564790220542.png "Generic Grid Layout Web Part -- Full width")
+![Generic Grid Layout Web Part -- Full width](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564790220542.png "Generic Grid Layout Web Part -- Full width")
 
-%[Generic Grid Layout Web Part -- 2/3 columns](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564790266695.png "Generic Grid Layout Web Part -- 2/3 columns")
+![Generic Grid Layout Web Part -- 2/3 columns](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564790266695.png "Generic Grid Layout Web Part -- 2/3 columns")
 
-%[Generic Grid Layout Web Part -- 1/3 column](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564790339286.png "Generic Grid Layout Web Part -- 1/3 column")
+![Generic Grid Layout Web Part -- 1/3 column](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564790339286.png "Generic Grid Layout Web Part -- 1/3 column")
 
 ### Generic filmstrip layout web part
 
 If you want to write your web part with the [filmstrip layout](https://tahoeninjas.blog/2019/07/31/sharepoint-framework-design-series-layout-patterns-part-ii/) and would like to mock them up in your wireframes, you can use the **Generic Filmstrip Layout Web Part**. It comes in **1/3 column**, **2/3 columns**, and **full-width** variations.
 
-%[Generic Filmstrip Layout Web Part -- Full width](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564794882353.png "Generic Filmstrip Layout Web Part -- Full width")
+![Generic Filmstrip Layout Web Part -- Full width](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564794882353.png "Generic Filmstrip Layout Web Part -- Full width")
 
-%[Generic Filmstrip Layout Web Part -- 2/3 columns](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564794897627.png "Generic Filmstrip Layout Web Part -- 2/3 columns")
+![Generic Filmstrip Layout Web Part -- 2/3 columns](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564794897627.png "Generic Filmstrip Layout Web Part -- 2/3 columns")
 
-%[Generic Filmstrip Layout Web Part -- 1/3 column](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564794914962.png "Generic Filmstrip Layout Web Part -- 1/3 column")
+![Generic Filmstrip Layout Web Part -- 1/3 column](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564794914962.png "Generic Filmstrip Layout Web Part -- 1/3 column")
 
 ### Generic carousel layout web part
 
 If you want to design a custom web part that uses the carousel layout, use this template. Like the other generic web parts, it comes in 3 flavours: ** Full-Width**, **2/3 columns** and **1/3 column**.
 
-%[Generic Carousel Web Part -- Full Width](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564796144063.png "Generic Carousel Web Part -- Full Width")
+![Generic Carousel Web Part -- Full Width](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564796144063.png "Generic Carousel Web Part -- Full Width")
 
-%[Generic Carousel Web Part -- 2/3 columns](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564796160736.png "Generic Carousel Web Part -- 2/3 columns")
+![Generic Carousel Web Part -- 2/3 columns](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564796160736.png "Generic Carousel Web Part -- 2/3 columns")
 
-%[Generic Carousel Web Part -- 1/3 column](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564796183549.png "Generic Carousel Web Part -- 1/3 column")
+![Generic Carousel Web Part -- 1/3 column](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564796183549.png "Generic Carousel Web Part -- 1/3 column")
 
 ### Generic list layout web part
 
 I couldn't do the other generic layouts and omit the list layout! This one is also available in **Full Width**, **2/3 columns** and **1/3 column**.
 
-%[Generic List Web Part -- Full Width](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564844942474.png "Generic List Web Part -- Full Width")
+![Generic List Web Part -- Full Width](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564844942474.png "Generic List Web Part -- Full Width")
 
-%[Generic List Web Part -- 2/3 columns](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564844976831.png "Generic List Web Part -- 2/3 columns")
+![Generic List Web Part -- 2/3 columns](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564844976831.png "Generic List Web Part -- 2/3 columns")
 
-%[Generic List Web Part -- 1/3 column](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564845013375.png "Generic List Web Part -- 1/3 column")
+![Generic List Web Part -- 1/3 column](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564845013375.png "Generic List Web Part -- 1/3 column")
 
 ### Color palettes
 
@@ -123,7 +123,7 @@ Here are simple tips to use the template:
 
 - The template uses an 11"x17" page template. It may seem big, but it prevents you from having to deal with 4pt fonts. Don't worry, it presents well on a screen, and prints great posters for your team project room walls.
 - It uses the new **sketchy** line styles. It may not work in the web version of PowerPoint or if you don't have the Office Insider edition of PowerPoint. Let me know if you need a non-sketchy version and I'll try to oblige. If you get an error opening it in the web browser, try opening it on your desktop
-%[Error message with PowerPoint](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564774640883.png "If you get this message, it is most likely because I used sketchy lines")
+![Error message with PowerPoint](https://tahoeninjas.blog/wp-content/uploads/2019/08/image-1564774640883.png "If you get this message, it is most likely because I used sketchy lines")
 - To emphasize on the "work in progress" look, I used the **Segoe Print** font because I found that it was available on most workstations that I use. If you don't have this font, feel free to use any font you like. [Ink Draft](https://www.microsoft.com/store/productId/9NPQGC3LCK31) and [Segoe Marker](https://www.microsoft.com/store/productId/9NGQR45WNJB2) work well too. Just resist the urge to use *Comic sans* !
 - For now, every slide uses the **communication site** layout (and the read-only variation). I'll add the **team site** layout if I get requests to do so
 - The title of the slide is the site title
